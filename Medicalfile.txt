@@ -1,0 +1,7 @@
+Git commands
+git clone <URL>  -- for copying the project
+git add filename -- add the files
+git commit -m "My first Commit from Pune"
+git status
+git log
+git show <commit-id>
